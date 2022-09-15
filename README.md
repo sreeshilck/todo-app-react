@@ -1,5 +1,5 @@
 
-# Todo App 
+# Todo App - React
 
 A Todo Application in React.js
 
